@@ -34,3 +34,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/8-git-commands-you-should-know-project-mojo-revision
 [gcs-video-url]: https://www.linkedin.com/learning/8-git-commands-you-should-know-project-mojo-revision/using-github-codespaces-with-this-course
 
+### Cool Tip
+
+Hit the '.' to get an online code editor!
